@@ -63,7 +63,7 @@
     .contacts__info{
         flex-direction: column-reverse;
     }
-    .contacts__info__addres{
+    .contacts__addres{
         padding-top: 20px;
     }
     .feedback{
